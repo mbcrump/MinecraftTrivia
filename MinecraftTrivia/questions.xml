@@ -1,0 +1,403 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<quiz>
+  <problem>
+    <question>How many items are in a stack?</question>
+    <answerA>10</answerA>
+    <answerB>42</answerB>
+    <answerC>64</answerC>
+    <answerD>02</answerD>
+    <correct>64</correct>
+  </problem>
+  <problem>
+    <question>How many wolves can you tame?</question>
+    <answerA>10</answerA>
+    <answerB>No Limit</answerB>
+    <answerC>100</answerC>
+    <answerD>50</answerD>
+    <correct>No Limit</correct>
+  </problem>
+  <problem>
+    <question>How many blocks does it take to make a beacon light up?</question>
+    <answerA>10</answerA>
+    <answerB>7</answerB>
+    <answerC>9</answerC>
+    <answerD>50</answerD>
+    <correct>9</correct>
+  </problem>
+  <problem>
+    <question>What is cobblestone primarily used for?</question>
+    <answerA>furnace</answerA>
+    <answerB>stone fences</answerB>
+    <answerC>stone bricks</answerC>
+    <answerD>dirt</answerD>
+    <correct>furnace</correct>
+  </problem>
+  <problem>
+    <question>The creeper's shape was based on a mistake, but what was Notch TRYING to make at the time?</question>
+    <answerA>Zombie</answerA>
+    <answerB>Pig</answerB>
+    <answerC>Hedge</answerC>
+    <answerD>Cthulhu</answerD>
+    <correct>Pig</correct>
+  </problem>
+  <problem>
+    <question>What does Notch drop if you kill him in multiplayer, besides his inventory?</question>
+    <answerA>An apple</answerA>
+    <answerB>A Spawner Block</answerB>
+    <answerC>A diamond</answerC>
+    <answerD>Notch's Hat</answerD>
+    <correct>An apple</correct>
+  </problem>
+  <problem>
+    <question>What happens when a pig is struck by lightning?</question>
+    <answerA>Nothing</answerA>
+    <answerB>It drops raw pork chop</answerB>
+    <answerC>It drops cooked pork chop</answerC>
+    <answerD>It turns into a Zombie Pigman</answerD>
+    <correct>It turns into a Zombie Pigman</correct>
+  </problem>
+  <problem>
+    <question>What did C418 use for Ghast sounds?</question>
+    <answerA>His Voice</answerA>
+    <answerB>A Child's Voice</answerB>
+    <answerC>His Cat</answerC>
+    <answerD>Playing Records Backwards</answerD>
+    <correct>His Cat</correct>
+  </problem>
+  <problem>
+    <question>Which of these games did NOT originally inspire Notch to create Minecraft?</question>
+    <answerA>Infiniminer</answerA>
+    <answerB>Dwarf Fortress</answerB>
+    <answerC>Rollercoaster Tycoon</answerC>
+    <answerD>Terrania</answerD>
+    <correct>Terrania</correct>
+  </problem>
+  <problem>
+    <question>Which biome are HOSTILE mobs unable to spawn in?</question>
+    <answerA>Mushroom Biomes</answerA>
+    <answerB>Ocean Biomes</answerB>
+    <answerC>Desert Biomes</answerC>
+    <answerD>None of the above</answerD>
+    <correct>Mushroom Biomes</correct>
+  </problem>
+  <problem>
+    <question>Which type of following armor is the most effective?</question>
+    <answerA>Leather armor</answerA>
+    <answerB>Golden armor</answerB>
+    <answerC>Diamond armor</answerC>
+    <answerD>Iron armor</answerD>
+    <correct>Diamond armor</correct>
+  </problem>
+  <problem>
+    <question>Which of these mobs doesn't exist in Minecraft?</question>
+    <answerA>Skeletal Horse</answerA>
+    <answerB>Endermite</answerB>
+    <answerC>Ocelot</answerC>
+    <answerD>Bird</answerD>
+    <correct>Bird</correct>
+  </problem>
+  <problem>
+    <question>In which version of Minecraft was world border added?</question>
+    <answerA>1.8</answerA>
+    <answerB>1.6</answerB>
+    <answerC>1.7</answerC>
+    <answerD>There isn't such a thing</answerD>
+    <correct>1.8</correct>
+  </problem>
+  <problem>
+    <question>Which of these foods gives most food points?</question>
+    <answerA>Raw potato</answerA>
+    <answerB>Carrot</answerB>
+    <answerC>Raw chicken</answerC>
+    <answerD>Mushroom stew</answerD>
+    <correct>Mushroom stew</correct>
+  </problem>
+  <problem>
+    <question>What's the Minecraft game homepage?</question>
+    <answerA>minecraftforums.net</answerA>
+    <answerB>minecraft.net</answerB>
+    <answerC>minecraft.com</answerC>
+    <answerD>theminecraft.com</answerD>
+    <correct>minecraft.net</correct>
+  </problem>
+  <problem>
+    <question>What company bought Minecraft and Mojang?</question>
+    <answerA>Microsoft</answerA>
+    <answerB>EA Games</answerB>
+    <answerC>King.com</answerC>
+    <answerD>None of the above</answerD>
+    <correct>Microsoft</correct>
+  </problem>
+  <problem>
+    <question>What is NBTExplorer?</question>
+    <answerA>Tool for changing NBT data in Minecraft</answerA>
+    <answerB>Minecraft cheat client</answerB>
+    <answerC>Minecraft mod for new biomes to explore</answerC>
+    <answerD>Nothing related to Minecraft</answerD>
+    <correct>Tool for changing NBT data in Minecraft</correct>
+  </problem>
+  <problem>
+    <question>Which of these mobs drops food when killed?</question>
+    <answerA>Skeleton</answerA>
+    <answerB>Iron Golem</answerB>
+    <answerC>Pig</answerC>
+    <answerD>Enderman</answerD>
+    <correct>Pig</correct>
+  </problem>
+  <problem>
+    <question>What was the first known title of Minecraft?</question>
+    <answerA>Creative test</answerA>
+    <answerB>Invbox</answerB>
+    <answerC>Cave-Game</answerC>
+    <answerD>Project 01</answerD>
+    <correct>Cave-Game</correct>
+  </problem>
+  <problem>
+    <question>What was the original name of Mojang?</question>
+    <answerA>Mojang Productions</answerA>
+    <answerB>Mojang Specifications</answerB>
+    <answerC>Mojang Limited</answerC>
+    <answerD>Minecraft Creations</answerD>
+    <correct>Mojang Specifications</correct>
+  </problem>
+  <problem>
+    <question>What object does not spawn naturally but instead has to be crafted?</question>
+    <answerA>Furnace</answerA>
+    <answerB>Ice block</answerB>
+    <answerC>Stone Button</answerC>
+    <answerD>Piston</answerD>
+    <correct>Piston</correct>
+  </problem>
+  <problem>
+    <question>What object cannot be found in the creative menu and instead must be summoned or crafted?</question>
+    <answerA>Packed Ice</answerA>
+    <answerB>Firework Rocket</answerB>
+    <answerC>Soul Sand</answerC>
+    <answerD>Mushroom Blocks</answerD>
+    <correct>Firework Rocket</correct>
+  </problem>
+  <problem>
+    <question>What can't an Ender Dragon break out of these suggestions?</question>
+    <answerA>Minecart</answerA>
+    <answerB>Grass Blocks</answerB>
+    <answerC>Wooden Planks</answerC>
+    <answerD>Lava</answerD>
+    <correct>Minecart</correct>
+  </problem>
+  <problem>
+    <question>Who is the creator of Minecraft?</question>
+    <answerA>Steve Jobs</answerA>
+    <answerB>Ridley Crump</answerB>
+    <answerC>Markus Persson</answerC>
+    <answerD>Jans Bergesten</answerD>
+    <correct>Markus Persson</correct>
+  </problem>
+  <problem>
+    <question>How many sheets of snow does it take to make a full snow block?</question>
+    <answerA>6</answerA>
+    <answerB>8</answerB>
+    <answerC>9</answerC>
+    <answerD>7</answerD>
+    <correct>8</correct>
+  </problem>
+  <problem>
+    <question>Which of these characters were not added in the early Minecraft days but removed later on excluding Steve and Alex?</question>
+    <answerA>Blue Steve</answerA>
+    <answerB>Beast Boy</answerB>
+    <answerC>Rana</answerC>
+    <answerD>Eddie</answerD>
+    <correct>Eddie</correct>
+  </problem>
+  <problem>
+    <question>What is the limit for pages of a Book and Quill?</question>
+    <answerA>105</answerA>
+    <answerB>15</answerB>
+    <answerC>50</answerC>
+    <answerD>No Limit</answerD>
+    <correct>50</correct>
+  </problem>
+  <problem>
+    <question>Which of these are not a biome when pressing F3 mode?</question>
+    <answerA>Mountains</answerA>
+    <answerB>Cold Beach</answerB>
+    <answerC>Deep Ocean</answerC>
+    <answerD>Hell</answerD>
+    <correct>Mountains</correct>
+  </problem>
+  <problem>
+    <question>Which of these mobs have NOT been removed from the game?</question>
+    <answerA>Rana</answerA>
+    <answerB>Pigman</answerB>
+    <answerC>Human</answerC>
+    <answerD>Beast Boy</answerD>
+    <correct>Pigman</correct>
+  </problem>
+  <problem>
+    <question>What happens when a creeper is struck by lightning? </question>
+    <answerA>It catches on fire</answerA>
+    <answerB>It becomes charged</answerB>
+    <answerC>It explodes</answerC>
+    <answerD>It dies</answerD>
+    <correct>It becomes charged</correct>
+  </problem>
+  <problem>
+    <question>Which of these games are NOT featured in the default texture pack's paintings?</question>
+    <answerA>Grim Fandago</answerA>
+    <answerB>Counter Strike</answerB>
+    <answerC>Team Fortress 2</answerC>
+    <answerD>Kings Quest</answerD>
+    <correct>Team Fortress 2</correct>
+  </problem>
+  <problem>
+    <question>Which of these is NOT the name of a music disc?</question>
+    <answerA>Calm</answerA>
+    <answerB>Stal</answerB>
+    <answerC>Ward</answerC>
+    <answerD>Mall</answerD>
+    <correct>Calm</correct>
+  </problem>
+  <problem>
+    <question>What film was the Iron Golem mob inspired by?</question>
+    <answerA>RoboCop</answerA>
+    <answerB>The Iron Giant</answerB>
+    <answerC>Laputa</answerC>
+    <answerD>The Terminator</answerD>
+    <correct>Laputa</correct>
+  </problem>
+  <problem>
+    <question>Which of these does Bone Meal have an effect on?</question>
+    <answerA>Grass</answerA>
+    <answerB>Cacti</answerB>
+    <answerC>Vines</answerC>
+    <answerD>Nether Wart</answerD>
+    <correct>Grass</correct>
+  </problem>
+  <problem>
+    <question>Which of these does Bone Meal NOT have an effect on?</question>
+    <answerA>Mushroom</answerA>
+    <answerB>Sugar Cane</answerB>
+    <answerC>Melons</answerC>
+    <answerD>Saplings</answerD>
+    <correct>Sugar Cane</correct>
+  </problem>
+  <problem>
+    <question>Which of these milk facts are NOT true?</question>
+    <answerA>Restores Hunger Bar</answerA>
+    <answerB>Cake Ingredient</answerB>
+    <answerC>Cures Poison</answerC>
+    <answerD>Cancels Potion Effects</answerD>
+    <correct>Restores Hunger Bar</correct>
+  </problem>
+  <problem>
+    <question>Which of these can be used to make potions?</question>
+    <answerA>Slime Ball</answerA>
+    <answerB>Glowstone Dust</answerB>
+    <answerC>Gold Nugget</answerC>
+    <answerD>Mushroom</answerD>
+    <correct>Glowstone Dust</correct>
+  </problem>
+  <problem>
+    <question>Which of these Mobs cannot swim?</question>
+    <answerA>Ocelots</answerA>
+    <answerB>Creepers</answerB>
+    <answerC>Skeletons</answerC>
+    <answerD>Iron Golem</answerD>
+    <correct>Iron Golem</correct>
+  </problem>
+  <problem>
+    <question>Which of these is NOT a wool color? </question>
+    <answerA>Light Brown</answerA>
+    <answerB>Light Blue</answerB>
+    <answerC>Cyan</answerC>
+    <answerD>Magenta</answerD>
+    <correct>Light Brown</correct>
+  </problem>
+  <problem>
+    <question>Where does the compass tool point to?</question>
+    <answerA>North</answerA>
+    <answerB>Current Spawn Point</answerB>
+    <answerC>Original Spawn Point</answerC>
+    <answerD>Stronghold</answerD>
+    <correct>Glowstone Dust</correct>
+  </problem>
+  <problem>
+    <question>How long is a Minecraft Day/Night cycle in real time?</question>
+    <answerA>10 Minutes</answerA>
+    <answerB>20 Minutes</answerB>
+    <answerC>30 Minutes</answerC>
+    <answerD>40 Minutes</answerD>
+    <correct>20 Minutes</correct>
+  </problem>
+  <problem>
+    <question>Which of these cannot be used as furnace fuel?</question>
+    <answerA>Huge Red Mushroom</answerA>
+    <answerB>Wooden Sword</answerB>
+    <answerC>Bookshelf</answerC>
+    <answerD>Dead Bush</answerD>
+    <correct>Dead Bush</correct>
+  </problem>
+  <problem>
+    <question>Which tool would you use to collect wool from sheep?</question>
+    <answerA>Spade</answerA>
+    <answerB>Shears</answerB>
+    <answerC>Sword</answerC>
+    <answerD>Flint and Steel</answerD>
+    <correct>Shears</correct>
+  </problem>
+  <problem>
+    <question>When you create a portal out of obsidian, where does it take you?</question>
+    <answerA>Heaven</answerA>
+    <answerB>The End</answerB>
+    <answerC>The Nether</answerC>
+    <answerD>The Void</answerD>
+    <correct>The Nether</correct>
+  </problem>
+  <problem>
+    <question>Which of these is NOT an animal on Minecraft?</question>
+    <answerA>Sheep</answerA>
+    <answerB>Elephant</answerB>
+    <answerC>Cow</answerC>
+    <answerD>Pig</answerD>
+    <correct>Elephant</correct>
+  </problem>
+  <problem>
+    <question>Which type of ore can be used to create electrical circuts?</question>
+    <answerA>Diamond</answerA>
+    <answerB>Lapis Lazuli</answerB>
+    <answerC>Gold</answerC>
+    <answerD>Redstone</answerD>
+    <correct>Lapis Lazuli</correct>
+  </problem>
+  <problem>
+    <question>Which of these is NOT a playable game mode on Minecraft?</question>
+    <answerA>Creative</answerA>
+    <answerB>Survival</answerB>
+    <answerC>Hardcore</answerC>
+    <answerD>Freestyle</answerD>
+    <correct>Freestyle</correct>
+  </problem>
+  <problem>
+    <question>Which of these is the correct spelling for the rumoured ghost that lives on Minecraft?</question>
+    <answerA>Herobrine</answerA>
+    <answerB>Hero Breen</answerB>
+    <answerC>Hero Brian</answerC>
+    <answerD>Hero Brains</answerD>
+    <correct>Hero Brains</correct>
+  </problem>
+  <problem>
+    <question>What is the maximum height (in blocks) that you can build up to?</question>
+    <answerA>100</answerA>
+    <answerB>256</answerB>
+    <answerC>188</answerC>
+    <answerD>512</answerD>
+    <correct>256</correct>
+  </problem>
+  <problem>
+    <question>How many Strongholds are supposed to randomly generate on a Survival mode world?</question>
+    <answerA>10</answerA>
+    <answerB>25</answerB>
+    <answerC>18</answerC>
+    <answerD>3</answerD>
+    <correct>3</correct>
+  </problem>
+</quiz>
